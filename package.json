@@ -1,0 +1,28 @@
+{
+  "name": "find-shallow-file",
+  "version": "1.0.0",
+  "description": "Finds a matching file as shallowly as possile in a given directory.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "righto": "^2.2.1"
+  },
+  "devDependencies": {
+    "tape": "^4.6.2"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoryNunn/find-shallow-file.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KoryNunn/find-shallow-file/issues"
+  },
+  "homepage": "https://github.com/KoryNunn/find-shallow-file#readme"
+}
